@@ -1,0 +1,17 @@
+{
+  "name": "guimarobo",
+  "owner": {
+    "name": "Guilherme Marobo",
+    "url": "https://github.com/GuiMarobo"
+  },
+  "description": "Guilherme Marobo's agent skills, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "guimarobo-skills",
+      "source": "./",
+      "description": "TDD per ticket, ticket and PR reviews, and an epic orchestrator for TypeScript/JavaScript projects.",
+      "category": "engineering",
+      "keywords": ["tdd", "code-review", "typescript", "workflow"]
+    }
+  ]
+}

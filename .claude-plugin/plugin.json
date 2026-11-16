@@ -1,0 +1,26 @@
+{
+  "name": "guimarobo-skills",
+  "version": "0.1.0",
+  "description": "Engineering skills for TypeScript/JavaScript: bounded TDD per ticket, ticket and PR reviews with evidence-backed findings, and an epic orchestrator that chains them.",
+  "author": {
+    "name": "Guilherme Marobo",
+    "url": "https://github.com/GuiMarobo"
+  },
+  "homepage": "https://github.com/GuiMarobo/guimarobo-skills",
+  "repository": "https://github.com/GuiMarobo/guimarobo-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "tdd",
+    "code-review",
+    "typescript",
+    "nestjs",
+    "workflow"
+  ],
+  "skills": [
+    "./skills/tdd",
+    "./skills/review-ticket",
+    "./skills/review-pr",
+    "./skills/implement-epic"
+  ]
+}
